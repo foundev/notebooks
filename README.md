@@ -2,7 +2,7 @@
 
 A collection of jupyter notebooks I have used to analyze particular problems, this is all generalized and anonymyzed from any source data I used.
 
-## How to run
+## How to run general diagnostic tarbal analysis
 
 * drop the analysis-general.ipynb into an opscenter diagnostic tarball folder
 * python3 -m venv venv
