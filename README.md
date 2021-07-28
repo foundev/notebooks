@@ -4,6 +4,7 @@ A collection of jupyter notebooks I have used to analyze particular problems, th
 
 ## How to run
 
+* drop the analysis-general.ipynb into an opscenter diagnostic tarball folder
 * python3 -m venv venv
 * source venv/bin/activate
 * pip install matplotlib pandas jupyter
