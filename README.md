@@ -1,4 +1,5 @@
 ﻿# notebooks
+NOTICE: MOVED TO CODEBERG https://codeberg.org/foundev/notebooks
 
 A collection of jupyter notebooks I have used to analyze particular problems, this is all generalized and anonymyzed from any source data I used.
 
